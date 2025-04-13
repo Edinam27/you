@@ -1,0 +1,38 @@
+
+# Core dependencies
+streamlit==1.22.0
+pandas
+numpy
+requests
+beautifulsoup4
+pillow
+matplotlib
+wordcloud
+setuptools
+
+# YouTube and content processing
+pytube
+google-api-python-client
+youtube-transcript-api
+moviepy==1.0.3
+opencv-python
+nltk
+ffmpeg-python
+
+
+# Web scraping and anti-detection
+undetected-chromedriver
+selenium
+fake-useragent
+requests-random-user-agent
+free-proxy  # Corrected from fp-fp
+
+# NLP and AI
+openai
+transformers
+torch
+
+# Social media integration
+facebook-sdk
+instabot
+instagrapi
