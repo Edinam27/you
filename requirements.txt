@@ -9,6 +9,7 @@ pillow
 matplotlib
 wordcloud
 setuptools
+opencv-python-headless
 
 # YouTube and content processing
 pytube
